@@ -568,15 +568,15 @@ body.dark-body {
   vertical-align: middle;
 }
 .home-banner .social-icons a {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   background: #111;
   display: block;
   text-align: center;
-  line-height: 30px;
+  line-height: 40px;
   color: #fff;
   border-radius: 50%;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 @media(max-width: 991px){
@@ -1300,7 +1300,7 @@ padding: 20px;
 .m-15px-b {margin-bottom:15px}
 .m-20px-b {margin-bottom:20px}
 .m-25px-b {margin-bottom:25px}
-.m-30px-b {margin-bottom:30px}
+.m-30px-b {margin-bottom:15px}
 .m-35px-b {margin-bottom:35px}
 .m-40px-b {margin-bottom:40px}
 .m-45px-b {margin-bottom:45px}
